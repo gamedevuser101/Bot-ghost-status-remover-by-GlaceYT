@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["EDIT THE STATUS", "🎮 Playing VALORANT"];
+const statusMessages = ["The Best Security Bot", "🎮 Vote at https://top.gg/bot/1290502191420801077"];
 let currentIndex = 0;
 
 async function login() {
@@ -91,7 +91,7 @@ login();
                     
 DISCORD :  https://discord.com/invite/xQF9f9yUEM                   
 YouTube : https://www.youtube.com/@GlaceYT                         
-                                                                       
+   Vote      : https://top.gg/bot/1290502191420801077                                                             
 ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
 
 
